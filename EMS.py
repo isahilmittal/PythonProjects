@@ -1,4 +1,4 @@
-#### emp = {
+emp = {
     101: {'name': 'Satya', 'age': 27, 'department': 'HR', 'salary': 50000},
     102: {'name': 'Amit', 'age': 30, 'department': 'Finance', 'salary': 60000},
     103: {'name': 'Nisha', 'age': 25, 'department': 'IT', 'salary': 55000},
